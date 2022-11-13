@@ -1,12 +1,124 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="-1" position="4">
+    <group value="NewGroup1" is_group="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="1" position="1">
+    <group value="NewGroup1" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewGroup1" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewGroup1" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Commander View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewGroup1" is_group="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Commander View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Commander View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Navigation Bar Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewGroup1" is_group="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewGroup1" is_group="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewGroup1" is_group="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Commander View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewGroup1" is_group="true" action_type="1" position="14">
+      <path value="root" />
+      <path value="Navigation Bar Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CIDR.Lang.NewGroup" is_group="true" action_type="1" position="19">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewGroup1" is_group="true" action_type="1" position="20">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="New" />
